@@ -1,2 +1,2 @@
-# simons-sketch.github.io
+# Семен Швецов
 my first website
